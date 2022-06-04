@@ -1,4 +1,4 @@
-# Posrgres
+# Postgres
 ## 1.
 Docker-compose в директории. 
 - Вывода списка БД
